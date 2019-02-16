@@ -1,0 +1,11 @@
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Debug\netcoreapp2.2\FileTools.deps.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Debug\netcoreapp2.2\FileTools.runtimeconfig.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Debug\netcoreapp2.2\FileTools.runtimeconfig.dev.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Debug\netcoreapp2.2\FileTools.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Debug\netcoreapp2.2\FileTools.pdb
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.csprojAssemblyReference.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.csproj.CoreCompileInputs.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.AssemblyInfoInputs.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.AssemblyInfo.cs
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Debug\netcoreapp2.2\FileTools.pdb

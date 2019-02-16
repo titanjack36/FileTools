@@ -1,0 +1,14 @@
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.exe
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.deps.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.runtimeconfig.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.runtimeconfig.dev.json
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\bin\Release\netcoreapp2.2\win10-x64\FileTools.pdb
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.csprojAssemblyReference.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.csproj.CoreCompileInputs.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.AssemblyInfoInputs.cache
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.AssemblyInfo.cs
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.dll
+C:\Users\jackg\Google Drive\Code\C#\VSCode\FileTools\obj\Release\netcoreapp2.2\win10-x64\FileTools.pdb
